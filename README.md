@@ -27,6 +27,6 @@ Você pode acessar a versão ao vivo do projeto através do seguinte link:
 
 ## Demonstração do Funcionamento
 
-!(![Amigo Secreto](https://github.com/user-attachments/assets/9ebce2be-e2bf-49d9-89ed-bd9ed8f9aa81)
-)
+![Amigo Secreto](https://github.com/user-attachments/assets/9ebce2be-e2bf-49d9-89ed-bd9ed8f9aa81)
+
 
